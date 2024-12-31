@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tritin5987.github.io/Blog/sitemap.xml
